@@ -1,5 +1,5 @@
 title: Sandra Vidal
-logo: pic2.jpg
+logo: <img src="pic2.jpg" alt="Foto de Sandra" style="width:200px; border-radius:50%;">
 description: Analista de Datos Jr. con formación en Python, SQL y Tableu.
 #show_downloads: true
 theme: jekyll-theme-minimal
