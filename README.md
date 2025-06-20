@@ -1,23 +1,23 @@
-# Análisis de embudo y test A/A/B en e-commerce
+# Modelo de predicción de perdidas de clientes
 
-Proyecto centrado en estudiar el comportamiento del usuario dentro de una app de alimentos, evaluando su progresión a través del embudo de conversión y midiendo el impacto de un rediseño de interfaz.
+Análisis de comportamiento de clientes de un gimnasio para segmentarlos en grupos y mejorar la retención a través de estrategias personalizadas.
 
 ## Objetivo
-Identificar etapas de abandono en el embudo de compra y validar, mediante test A/A/B, si un cambio visual afecta el comportamiento del usuario.
+Agrupar a los clientes según su frecuencia de uso, edad, gastos y tipo de contrato para entender patrones de cancelación (churn) y fidelización.
 
-## Herramientas utilizadas
-- Python (Pandas, Seaborn)
-- Estadística: pruebas U de Mann-Whitney
-- Visualización de embudos
-- Análisis de cohortes
+## Herramientas y tecnologías
+- Python (Pandas, Matplotlib, Seaborn)
+- Scikit-learn: KMeans
+- Visualización: KDE plots, boxplots
+- Análisis de clústeres y churn
 
-## Análisis realizado
-- Limpieza y segmentación por grupos experimentales (ExpId)
-- Cálculo de tasas de conversión en cada paso del embudo
-- Comparación de grupos A/A y A/B
-- Aplicación de ajuste de significancia para evitar falsos positivos
+## Proceso
+- Limpieza de datos y escalado de variables
+- Aplicación de K-Means con 5 clústeres
+- Análisis de cada grupo según sus características
+- Recomendaciones por segmento
 
-## Hallazgos
-- La mayor pérdida ocurre al pasar del producto al carrito
-- No hay impacto negativo del rediseño en la tasa de conversión
-- Se validó la estabilidad de los grupos de control
+## Conclusiones
+- Se identificaron grupos con alto riesgo de abandono
+- Se propusieron acciones por clúster (contratos largos, promociones, fidelización)
+- Visualizaciones claras del perfil de cada grupo
