@@ -22,7 +22,7 @@ Análisis de comportamiento de clientes de un gimnasio para segmentarlos en grup
 
 ## Objetivo
 Agrupar a los clientes según su frecuencia de uso, edad, gastos y tipo de contrato para entender patrones de cancelación (churn) y fidelización.
-
+![](assets/Histogramas.png)
 ## Herramientas y tecnologías
 - Python (Pandas, Matplotlib, Seaborn)
 - Scikit-learn: KMeans
