@@ -75,3 +75,12 @@ Detectar operadores con alto porcentaje de llamadas perdidas y largos tiempos de
 ![](assets/pf2.png) ![](assets/pf3.png)
 
 **Puedes ver el proyecto completo [aqui](https://github.com/meli6432/operadores-telefonicos-ineficaces).**
+
+
+¡Gracias por tomarte el tiempo de conocer mi trabajo!
+
+💬 Si quieres conectar, intercambiar ideas o explorar posibles colaboraciones, estoy disponible en:
+
+🔗 [LinkedIn – Sandra Vidal Jaramillo](https://www.linkedin.com/in/sandra-vidal-j/)
+📧 meli6432@gmail.com
+📍 Colombia | Disponible para trabajo remoto
