@@ -22,12 +22,13 @@ Análisis de comportamiento de clientes de un gimnasio para segmentarlos en grup
 
 ## Objetivo
 Agrupar a los clientes según su frecuencia de uso, edad, gastos y tipo de contrato para entender patrones de cancelación (churn) y fidelización.
-![](assets/Histogramas.png)
+![](assets/Histogramas.png) ![](assets/variables_continuas.png) 
 ## Herramientas y tecnologías
 - Python (Pandas, Matplotlib, Seaborn)
 - Scikit-learn: KMeans
 - Visualización: KDE plots, boxplots
 - Análisis de clústeres y churn
+![](assets/matriz de correlación.png)
 
 ## Proceso
 - Limpieza de datos y escalado de variables
@@ -39,7 +40,7 @@ Agrupar a los clientes según su frecuencia de uso, edad, gastos y tipo de contr
 - Se identificaron grupos con alto riesgo de abandono
 - Se propusieron acciones por clúster (contratos largos, promociones, fidelización)
 - Visualizaciones claras del perfil de cada grupo
-
+![](assets/distribución de caracteristicas.png) ![](assets/distribucion 2.png) ![](assets/clusteres.png)  
 
 
 # Identificación y clasificación de operadores ineficaces
