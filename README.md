@@ -22,7 +22,7 @@ Análisis de comportamiento de clientes de un gimnasio para segmentarlos en grup
 
 ## Objetivo
 Agrupar a los clientes según su frecuencia de uso, edad, gastos y tipo de contrato para entender patrones de cancelación (churn) y fidelización.
-![](assets/Histogramas.png) ![](assets/variables_continuas.png) 
+![](assets/Histogramas.png) ![](assets/variables continuas.png) 
 ## Herramientas y tecnologías
 - Python (Pandas, Matplotlib, Seaborn)
 - Scikit-learn: KMeans
@@ -36,11 +36,13 @@ Agrupar a los clientes según su frecuencia de uso, edad, gastos y tipo de contr
 - Análisis de cada grupo según sus características
 - Recomendaciones por segmento
 
+![](assets/clusteres.png)
+
 ## Conclusiones
 - Se identificaron grupos con alto riesgo de abandono
 - Se propusieron acciones por clúster (contratos largos, promociones, fidelización)
 - Visualizaciones claras del perfil de cada grupo
-![](assets/distribución de caracteristicas.png) ![](assets/distribucion 2.png) ![](assets/clusteres.png)  
+![](assets/distribución de caracteristicas.png) ![](assets/distribucion 2.png)   
 
 
 # Identificación y clasificación de operadores ineficaces
@@ -49,6 +51,7 @@ Este proyecto analiza el rendimiento de operadores telefónicos en una empresa d
 
 ## Objetivo
 Detectar operadores con alto porcentaje de llamadas perdidas y largos tiempos de espera utilizando análisis exploratorio y modelos predictivos.
+![](assets/pf.png) ![](assets/pf1.png)
 
 ## Tecnologías y herramientas
 - Python (Pandas, Matplotlib, Seaborn)
@@ -68,3 +71,4 @@ Detectar operadores con alto porcentaje de llamadas perdidas y largos tiempos de
 - Ranking de importancia de variables
 - Recomendaciones prácticas para supervisores
 
+![](assets/pf2.png) ![](assets/pf3.png)
