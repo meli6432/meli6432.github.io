@@ -44,6 +44,7 @@ Agrupar a los clientes según su frecuencia de uso, edad, gastos y tipo de contr
 - Visualizaciones claras del perfil de cada grupo
 ![](assets/distribución de caracteristicas.png) ![](assets/distribucion 2.png)   
 
+**Puedes ver el proyecto completo [aqui](https://github.com/meli6432/Modelo-de-predicci-n-de-perdidas-de-clientes).**
 
 # Identificación y clasificación de operadores ineficaces
 
@@ -72,3 +73,5 @@ Detectar operadores con alto porcentaje de llamadas perdidas y largos tiempos de
 - Recomendaciones prácticas para supervisores
 
 ![](assets/pf2.png) ![](assets/pf3.png)
+
+**Puedes ver el proyecto completo [aqui](https://github.com/meli6432/operadores-telefonicos-ineficaces).**
