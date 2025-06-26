@@ -82,7 +82,5 @@ Detectar operadores con alto porcentaje de llamadas perdidas y largos tiempos de
 💬 Si quieres conectar, intercambiar ideas o explorar posibles colaboraciones, estoy disponible en:
 
 🔗 [LinkedIn – Sandra Vidal Jaramillo](https://www.linkedin.com/in/sandra-vidal-j/)
-
-📧 meli6432@gmail.com
-
+📧 meli643@gmail.com
 📍 Colombia | Disponible para trabajo remoto
