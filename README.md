@@ -79,7 +79,7 @@ Detectar operadores con alto porcentaje de llamadas perdidas y largos tiempos de
 # Proyecto: Análisis de Comportamiento en Reservas de Hotel
 ## Objetivo
 Identificar patrones de comportamiento en las reservas de un hotel urbano, con énfasis en las cancelaciones, el canal de reserva, el tiempo de anticipación y el origen de los huéspedes.
-![](assets/cancelacion_1.png) ![](assets/cancelacion_1.png)
+![](assets/cancelacion_1.png) ![](assets/cancelacion_2.png)
 
 ## Herramientas utilizadas
 - Python
