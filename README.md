@@ -100,13 +100,13 @@ Se generaron gráficos para comprender los patrones:
 - Distribución de noches por estadía
 - Porcentaje de huéspedes por país
 
+![](assets/cancelacion_3.png) ![](assets/cancelacion_4.png)
+
 ## Resultados / Conclusiones
 - Booking fue el canal con menor porcentaje de cancelaciones.
 - La mayoría de las estancias fueron de 5 a 7 noches.
 - Perú fue el país de origen más frecuente, pero hubo diversidad internacional.
 - Las habitaciones tipo Suite tendieron a tener menos cancelaciones.
-
-![](assets/cancelacion_3.png) ![](assets/cancelacion_4.png)
 
 **Puedes ver el proyecto completo [aqui](https://github.com/meli6432/comportamiento-reservas-hotel).**
 
