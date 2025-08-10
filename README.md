@@ -1,4 +1,4 @@
-## Sobre mí
+## El lado humano detrás de los dashboards
 
 Tecnóloga en gestión hotelera con 4 años de experiencia en atención al cliente digital, apasionada por el análisis de datos y la visualización de información.  
 Me formé como Data Analyst en TripleTen Bootcamp. Actualmente estoy en busca de nuevas oportunidades laborales en este campo.
