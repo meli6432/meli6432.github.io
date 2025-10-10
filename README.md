@@ -16,6 +16,57 @@ Me formé como Data Analyst en TripleTen Bootcamp. Actualmente estoy en busca de
 Competencias
 Atención al detalle | Pensamiento analítico | Resolución de problemas | Organización | Adaptabilidad | Comunicación clara | Aprendizaje autónomo | Trabajo en equipo | Orientación a resultados | Gestión del tiempo
 
+# 📊 Proyecto de Logística y Ventas con Excel
+
+![](Images/Captura de pantalla 2025-10-10 120442.png)
+
+## Objetivo
+Analizar las operaciones de ventas y entregas, evaluando el valor total facturado, cumplimiento de plazos de entrega y desempeño de las transportadoras, para detectar oportunidades de mejora en la gestión logística.
+
+
+## Herramientas utilizadas
+Microsoft Excel:
+- Tablas dinámicas para consolidar y calcular métricas.
+- Fórmulas para el cálculo de días de entrega y estado de cada pedido.
+- Gráficos para visualización en el dashboard.
+
+
+## Proceso
+1. Carga y limpieza de datos:
+- Se consolidó una base de datos con información de facturas, clientes, transportadoras, valor total, peso de carga y fechas de entrega.
+
+2. Preparación de métricas:
+- Cálculo de días de entrega y clasificación en “En plazo” o “Atrasado”.
+- Agrupación por transportadora para medir desempeño.
+
+3. Construcción de tablas dinámicas:
+- Valor total facturado y número de pedidos.
+- Cumplimiento de plazos por transportadora.
+
+4. Diseño del dashboard:
+- Visualización de indicadores clave (ventas, pedidos, entregas en plazo/atrasadas).
+- Gráficos de barras y tablas comparativas para análisis rápido.
+
+
+## Visualización de datos
+1. Indicadores clave:
+- Valor total facturado ≈ 11.6M
+- Total pedidos: 5,348
+
+2. Cumplimiento por transportadora: Tabla comparativa con entregas en plazo vs atrasadas.
+
+3. Dashboard gráfico: Barras y líneas que muestran desempeño por transportadora, estatus de entregas y ventas por año.
+
+
+## Resultados / Conclusiones
+- Se gestionaron más de 5,300 pedidos con un valor superior a 11.6M.
+- El cumplimiento de plazos varió entre transportadoras, algunas con más de 700 pedidos gestionados.
+- Número de pedidos por año en el que se pudo identificar una gran reducción para el año 2023.
+- Se identificó que una proporción importante de pedidos tuvo entregas atrasadas, lo que permite:
+    - Detectar transportadoras con mejor desempeño.
+    - Redefinir acuerdos de servicio y tiempos de entrega.
+    - Implementar estrategias para reducir retrasos y optimizar la satisfacción del cliente.
+
 # Modelo de predicción de perdidas de clientes
 
 Análisis de comportamiento de clientes de un gimnasio para segmentarlos en grupos y mejorar la retención a través de estrategias personalizadas.
