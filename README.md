@@ -18,7 +18,7 @@ Atención al detalle | Pensamiento analítico | Resolución de problemas | Organ
 
 # 📊 Proyecto de Logística y Ventas con Excel
 
-![](Images/Captura de pantalla 2025-10-10 120442.png)
+![](https://github.com/meli6432/Proyecto-de-Logistica-y-Ventas/blob/036beecd5dcd501b7dd6dfe61ba51912352def10/Images/Captura%20de%20pantalla%202025-10-10%20120442.png)
 
 ## Objetivo
 Analizar las operaciones de ventas y entregas, evaluando el valor total facturado, cumplimiento de plazos de entrega y desempeño de las transportadoras, para detectar oportunidades de mejora en la gestión logística.
@@ -66,6 +66,8 @@ Microsoft Excel:
     - Detectar transportadoras con mejor desempeño.
     - Redefinir acuerdos de servicio y tiempos de entrega.
     - Implementar estrategias para reducir retrasos y optimizar la satisfacción del cliente.
+
+**Puedes ver el proyecto completo [aqui](https://github.com/meli6432/Proyecto-de-Logistica-y-Ventas).**
 
 # Modelo de predicción de perdidas de clientes
 
