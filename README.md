@@ -242,7 +242,7 @@ Desarrollar un dashboard interactivo en Tableau que permita a la alta dirección
 
 4. Interactividad: filtros por año (2018–2020) y por clasificación del accidente (con víctimas fatales, con heridos, sin víctimas).
 
-![](https://github.com/meli6432/Proyecto-accidentes-de-carretera-Tableu/blob/main/Image/Dashboard.png)
+![](assets/Dashboard.png)
 
 ## Visualización de datos
 - Indicadores principales:
