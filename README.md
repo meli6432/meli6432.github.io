@@ -217,6 +217,62 @@ Hallazgo clave: las ventas están distribuidas de forma relativamente equitativa
 
 **Puedes ver el proyecto completo [aqui](https://github.com/meli6432/Ventas-Power-BI.git).**
 
+# Proyecto de Análisis de Accidentes en Carreteras Federales (Tableau)
+Link del Dashboard: https://public.tableau.com/app/profile/melissa.vidal/viz/DashboarddeAccidentes/Dashboard1?publish=yes
+
+## Objetivo
+Desarrollar un dashboard interactivo en Tableau que permita a la alta dirección analizar los accidentes de tráfico en carreteras federales durante los años 2018, 2019 y 2020, con enfoque en la cuantificación de eventos, víctimas, causas y patrones temporales.
+
+## Herramientas utilizadas
+- Tableau Desktop: construcción de visualizaciones y dashboard.
+- Excel: base de datos con registros de accidentes.
+- Mapbox (integrado en Tableau): visualización geográfica de carreteras y puntos de accidentes.
+
+
+## Proceso
+1. Conexión y preparación de datos: importación de la base de accidentes, limpieza de campos y creación de cálculos para clasificar víctimas y causas.
+
+2. Construcción de métricas clave: total de accidentes, número de heridos, fallecidos y accidentes con más de 3 víctimas.
+
+3. Diseño de visualizaciones:
+- Distribución por hora y por combinación hora/día.
+- Mapa geográfico de carreteras y localización de accidentes.
+- Ranking de las 7 principales causas.
+- Gráficos de barras por tipo de pista y por estado.
+
+4. Interactividad: filtros por año (2018–2020) y por clasificación del accidente (con víctimas fatales, con heridos, sin víctimas).
+
+![](https://github.com/meli6432/Proyecto-accidentes-de-carretera-Tableu/blob/main/Image/Dashboard.png)
+
+## Visualización de datos
+- Indicadores principales:
+    - Accidentes: 60,531
+    - Heridos: 71,260
+    - Muertos: 4,062
+
+- Distribución temporal:
+    -Picos de accidentes entre las 7–9h y las 17–19h, mostrando relación con horas de tráfico intenso.
+    - Heatmap “Hora vs Día” evidencia concentración entre semana
+
+- Factores de riesgo:
+    - Principales causas: falta de atención del conductor (22,189 casos) y velocidad incompatible (7,761).
+
+- Geografía:
+    - Estados más afectados: Minas Gerais (43.22%), Río de Janeiro y São Paulo.
+    -Mapa muestra mayor concentración en los ejes principales de conexión interestatal.
+
+- Condiciones de la vía:
+    - Mayor cantidad de accidentes en pistas dobles y simples frente a múltiples.
+
+## Resultados / Conclusiones
+- El estudio confirma que los accidentes se concentran en horas pico y en días laborales.
+- Falta de atención y exceso de velocidad son las causas más críticas, sugiriendo campañas de concientización y fiscalización.
+- Minas Gerais concentra casi la mitad de los accidentes, lo que indica necesidad de reforzar medidas de seguridad vial en esa región.
+- El mapa revela que los accidentes siguen los corredores federales de mayor tránsito, siendo clave para definir prioridades de inversión en infraestructura.
+- Este dashboard facilita a la alta dirección tomar decisiones informadas sobre seguridad vial, priorización de recursos y diseño de políticas de prevención.
+
+**Puedes ver el proyecto completo [aqui](https://github.com/meli6432/Proyecto-accidentes-de-carretera-Tableu).**
+
 ¡Gracias por tomarte el tiempo de conocer mi trabajo!
 
 💬 Si quieres conectar, intercambiar ideas o explorar posibles colaboraciones, estoy disponible en:
