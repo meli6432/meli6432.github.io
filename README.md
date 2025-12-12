@@ -297,7 +297,7 @@ El dashboard muestra indicadores clave: total de ventas, total de clientes, top 
 - Se identificaron clientes de alto valor en riesgo de churn.
 - Algunos segmentos poco rentables consumen recursos comerciales.
 - La segmentación permite diseñar estrategias de retención, reactivación y fidelización basadas en datos.
-- 
+ 
 **Puedes ver el proyecto completo [aqui](https://github.com/meli6432/Proyecto-Segmentacion-de-clientes).**
 
 ¡Gracias por tomarte el tiempo de conocer mi trabajo!
