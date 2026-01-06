@@ -350,7 +350,7 @@ El dashboard en Power BI incluye:
 
 - El dashboard facilita el seguimiento de métricas clave y permite explorar los datos de forma interactiva para apoyar la toma de decisiones.
 
-**Puedes ver el proyecto completo [aqui]([https://github.com/meli6432/Ventas-SQL]).**
+**Puedes ver el proyecto completo [aqui](https://github.com/meli6432/Ventas-SQL).**
 
 ¡Gracias por tomarte el tiempo de conocer mi trabajo!
 
