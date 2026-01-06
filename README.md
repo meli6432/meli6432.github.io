@@ -331,6 +331,7 @@ Analizar el comportamiento de las ventas, los clientes y los productos a partir 
 
 
 ## Visualización de datos
+![](assets/Dashboard SQL.png)
 El dashboard en Power BI incluye:
 - KPIs principales: ingresos totales, número de ventas, clientes únicos y ticket promedio.
 - Gráfico de ventas por mes para identificar tendencias.
@@ -349,6 +350,7 @@ El dashboard en Power BI incluye:
 
 - El dashboard facilita el seguimiento de métricas clave y permite explorar los datos de forma interactiva para apoyar la toma de decisiones.
 
+**Puedes ver el proyecto completo [aqui]([https://github.com/meli6432/Ventas-SQL]).**
 
 ¡Gracias por tomarte el tiempo de conocer mi trabajo!
 
